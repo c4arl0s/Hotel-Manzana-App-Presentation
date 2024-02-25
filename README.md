@@ -1,5 +1,11 @@
 # [go back to overview](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [Hotel Manzana App](https://github.com/c4arl0s/BuildingComplexInputScreens#building-complex-input-screens---content)
 
 The app allows you to register guests when they arrive at the hotel.
